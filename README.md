@@ -8,7 +8,7 @@ Soul hunter is a dungeon crawler action RPG looter. You fight your way through r
 ### How do I run Soul Hunter?
 To run the game do the following:
 1. Either clone or download this repository 
-2. Proceed to the *Releases* folder and unzip both folders within there
+2. Proceed to the [**Releases**](https://github.com/KDaryl/ProjectY4/tree/master/Releases) folder and unzip both folders within there
 3. Run SH.exe in either version of the game you would like to try
 
 ### How do I open Soul Hunter in Unity?
