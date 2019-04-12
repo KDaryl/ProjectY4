@@ -14,7 +14,7 @@ To run the game do the following:
 ### How do I open Soul Hunter in Unity?
 To open Soul Hunter in the Unity Editor make sure you have Unity version **2018.2.3f1** (or higher) which you can [download by clicking here](https://download.unity3d.com/download_unity/bb579dc42f1d/Windows64EditorInstaller/UnitySetup64-2018.3.1f1.exe).
 Then do the following:
-1. Proceed to the foloder **../Assets/ML-Agents/Plugins/** and unzip the file **Computer.zip**
+1. Proceed to the folder **../Assets/ML-Agents/Plugins/** and unzip the file **Computer.zip**
 2. Open up the project using Unity
 
 ### Where is the source code located?
